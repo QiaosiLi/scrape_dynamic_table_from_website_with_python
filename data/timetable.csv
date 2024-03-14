@@ -1,0 +1,431 @@
+Platform,Destination,Departs,Expected,Origin,Operator,Unnamed: 6,date
+2,Balloch,18:15,On time,Airdrie,ScotRail,Expand,2024-03-11
+1,Bathgate,18:15,On time,Milngavie,ScotRail,Expand,2024-03-11
+1,Airdrie,18:23,18:29,Balloch,ScotRail,Expand,2024-03-11
+2,Milngavie,18:24,On time,Edinburgh,ScotRail,Expand,2024-03-11
+1,Springburn,18:28,On time,Milngavie,ScotRail,Expand,2024-03-11
+2,Helensburgh Central,18:34,On time,Edinburgh,ScotRail,Expand,2024-03-11
+1,Edinburgh,18:36,On time,Helensburgh Central,ScotRail,Expand,2024-03-11
+2,Milngavie,18:40,On time,Springburn,ScotRail,Expand,2024-03-11
+2,Balloch,18:45,On time,Airdrie,ScotRail,Expand,2024-03-11
+1,Airdrie,18:53,On time,Balloch,ScotRail,Expand,2024-03-11
+2,Milngavie,18:55,On time,Edinburgh,ScotRail,Expand,2024-03-11
+1,Springburn,18:58,On time,Milngavie,ScotRail,Expand,2024-03-11
+2,Helensburgh Central,19:04,On time,Edinburgh,ScotRail,Expand,2024-03-11
+2,Milngavie,19:10,On time,Springburn,ScotRail,Expand,2024-03-11
+2,Balloch,19:15,On time,Airdrie,ScotRail,Expand,2024-03-11
+2,Garscadden,19:23,On time,Edinburgh,ScotRail,Expand,2024-03-11
+1,Airdrie,19:24,On time,Balloch,ScotRail,Expand,2024-03-11
+1,Springburn,19:28,On time,Milngavie,ScotRail,Expand,2024-03-11
+2,Helensburgh Central,19:34,On time,Edinburgh,ScotRail,Expand,2024-03-11
+1,Edinburgh,19:35,On time,Helensburgh Central,ScotRail,Expand,2024-03-11
+2,Milngavie,19:40,On time,Springburn,ScotRail,Expand,2024-03-11
+2,Balloch,19:46,On time,Airdrie,ScotRail,Expand,2024-03-11
+1,Airdrie,19:53,On time,Balloch,ScotRail,Expand,2024-03-11
+1,Springburn,19:58,On time,Milngavie,ScotRail,Expand,2024-03-11
+2,Helensburgh Central,20:04,On time,Edinburgh,ScotRail,Expand,2024-03-11
+2,Milngavie,20:10,On time,Springburn,ScotRail,Expand,2024-03-11
+2,Balloch,20:15,On time,Airdrie,ScotRail,Expand,2024-03-11
+1,Edinburgh,20:23,On time,Helensburgh Central,ScotRail,Expand,2024-03-11
+2,Balloch,20:41,On time,Springburn,ScotRail,Expand,2024-03-11
+2,Helensburgh Central,20:50,On time,Edinburgh,ScotRail,Expand,2024-03-11
+1,Edinburgh,20:51,On time,Helensburgh Central,ScotRail,Expand,2024-03-11
+1,Springburn,21:02,On time,Balloch,ScotRail,Expand,2024-03-11
+1,Edinburgh,21:20,On time,Helensburgh Central,ScotRail,Expand,2024-03-11
+2,Helensburgh Central,21:21,On time,Edinburgh,ScotRail,Expand,2024-03-11
+2,Balloch,21:45,On time,Springburn,ScotRail,Expand,2024-03-11
+2,Helensburgh Central,21:50,On time,Edinburgh,ScotRail,Expand,2024-03-11
+1,Edinburgh,21:53,On time,Helensburgh Central,ScotRail,Expand,2024-03-11
+1,Springburn,22:02,On time,Balloch,ScotRail,Expand,2024-03-11
+2,Helensburgh Central,22:20,On time,Edinburgh,ScotRail,Expand,2024-03-11
+1,Edinburgh,22:21,On time,Helensburgh Central,ScotRail,Expand,2024-03-11
+1,Springburn,22:33,On time,Balloch,ScotRail,Expand,2024-03-11
+2,Balloch,22:46,On time,Springburn,ScotRail,Expand,2024-03-11
+2,Helensburgh Central,22:50,On time,Edinburgh,ScotRail,Expand,2024-03-11
+1,Bathgate,22:51,On time,Helensburgh Central,ScotRail,Expand,2024-03-11
+2,Helensburgh Central,23:20,On time,Edinburgh,ScotRail,Expand,2024-03-11
+1,Bathgate,23:21,On time,Helensburgh Central,ScotRail,Expand,2024-03-11
+1,Springburn,23:32,On time,Balloch,ScotRail,Expand,2024-03-11
+2,Balloch,23:39,On time,Springburn,ScotRail,Expand,2024-03-11
+1,Bathgate,23:50,On time,Helensburgh Central,ScotRail,Expand,2024-03-11
+2,Helensburgh Central,23:57,On time,Edinburgh,ScotRail,Expand,2024-03-11
+2,Garscadden,00:07,On time,Edinburgh,ScotRail,Expand,2024-03-11
+2,Garscadden,00:12,On time,Springburn,ScotRail,Expand,2024-03-11
+1,Airdrie,00:21,On time,Helensburgh Central,ScotRail,Expand,2024-03-11
+2,Balloch,10:45,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,10:53,10:55,Balloch,ScotRail,Expand,2024-03-12
+1,Springburn,10:58,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,11:04,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,11:04,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,11:10,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,11:15,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,11:23,On time,Balloch,ScotRail,Expand,2024-03-12
+1,Springburn,11:28,On time,Milngavie,ScotRail,Expand,2024-03-12
+1,Edinburgh,11:34,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,11:40,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,11:45,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,11:53,On time,Balloch,ScotRail,Expand,2024-03-12
+1,Springburn,12:01,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,12:04,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,12:05,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,12:10,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,12:14,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,12:23,On time,Balloch,ScotRail,Expand,2024-03-12
+1,Springburn,12:27,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,12:34,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,12:36,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,12:40,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,12:45,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,12:54,On time,Balloch,ScotRail,Expand,2024-03-12
+1,Springburn,12:58,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,13:04,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,13:04,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,13:10,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,13:15,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,13:23,On time,Balloch,ScotRail,Expand,2024-03-12
+1,Springburn,13:28,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,13:34,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,13:34,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,13:40,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,13:45,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,13:53,On time,Balloch,ScotRail,Expand,2024-03-12
+1,Springburn,13:58,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,14:04,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,14:04,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,14:10,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,14:15,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,14:23,On time,Balloch,ScotRail,Expand,2024-03-12
+1,Springburn,14:28,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,14:34,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,14:35,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,14:40,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,14:45,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,14:53,On time,Balloch,ScotRail,Expand,2024-03-12
+1,Springburn,14:58,On time,Milngavie,ScotRail,Expand,2024-03-12
+1,Edinburgh,15:03,On time,Garscadden,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,15:04,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,15:07,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,15:10,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,15:15,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,15:24,On time,Balloch,ScotRail,Expand,2024-03-12
+1,Springburn,15:28,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,15:34,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,15:35,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,15:40,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,15:45,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,15:53,On time,Balloch,ScotRail,Expand,2024-03-12
+2,Milngavie,15:54,On time,Bathgate,ScotRail,Expand,2024-03-12
+1,Springburn,15:58,On time,Milngavie,ScotRail,Expand,2024-03-12
+1,Edinburgh,16:04,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,16:10,On time,Springburn,ScotRail,Expand,2024-03-12
+1,Edinburgh,16:14,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Balloch,16:15,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,16:23,On time,Balloch,ScotRail,Expand,2024-03-12
+2,Milngavie,16:23,On time,Bathgate,ScotRail,Expand,2024-03-12
+1,Springburn,16:28,On time,Hyndland,ScotRail,Expand,2024-03-12
+1,Edinburgh,16:34,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,16:34,On time,Edinburgh,ScotRail,Expand,2024-03-12
+2,Milngavie,16:40,On time,Springburn,ScotRail,Expand,2024-03-12
+1,Edinburgh,16:44,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Balloch,16:45,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,16:53,On time,Balloch,ScotRail,Expand,2024-03-12
+2,Milngavie,16:53,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Springburn,16:58,On time,Milngavie,ScotRail,Expand,2024-03-12
+1,Edinburgh,17:03,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,17:04,On time,Edinburgh,ScotRail,Expand,2024-03-12
+2,Milngavie,17:10,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,17:14,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Edinburgh,17:14,On time,Milngavie,ScotRail,Expand,2024-03-12
+1,Airdrie,17:23,On time,Balloch,ScotRail,Expand,2024-03-12
+2,Milngavie,17:24,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Springburn,17:28,On time,Milngavie,ScotRail,Expand,2024-03-12
+1,Edinburgh,17:34,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,17:34,On time,Edinburgh,ScotRail,Expand,2024-03-12
+2,Milngavie,17:40,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,17:46,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Bathgate,17:48,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Milngavie,17:54,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Springburn,18:00,On time,Milngavie,ScotRail,Expand,2024-03-12
+1,Edinburgh,18:05,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,18:05,On time,Edinburgh,ScotRail,Expand,2024-03-12
+2,Milngavie,18:11,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,18:15,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Bathgate,18:15,On time,Milngavie,ScotRail,Expand,2024-03-12
+1,Airdrie,18:23,On time,Balloch,ScotRail,Expand,2024-03-12
+2,Milngavie,18:24,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Springburn,18:28,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,18:34,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,18:36,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,18:40,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,18:45,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,18:53,On time,Balloch,ScotRail,Expand,2024-03-12
+2,Milngavie,18:55,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Springburn,18:58,On time,Milngavie,ScotRail,Expand,2024-03-12
+1,Edinburgh,19:04,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,19:04,On time,Edinburgh,ScotRail,Expand,2024-03-12
+2,Milngavie,19:10,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,19:15,On time,Airdrie,ScotRail,Expand,2024-03-12
+2,Garscadden,19:23,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Airdrie,19:24,On time,Balloch,ScotRail,Expand,2024-03-12
+1,Springburn,19:28,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,19:34,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,19:35,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,19:40,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,19:46,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Airdrie,19:53,On time,Balloch,ScotRail,Expand,2024-03-12
+1,Springburn,19:58,On time,Milngavie,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,20:04,On time,Edinburgh,ScotRail,Expand,2024-03-12
+2,Milngavie,20:10,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Balloch,20:15,On time,Airdrie,ScotRail,Expand,2024-03-12
+1,Edinburgh,20:23,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Balloch,20:41,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,20:50,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,20:51,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+1,Springburn,21:02,On time,Balloch,ScotRail,Expand,2024-03-12
+1,Edinburgh,21:20,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,21:21,On time,Edinburgh,ScotRail,Expand,2024-03-12
+2,Balloch,21:45,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,21:50,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,21:53,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+1,Springburn,22:02,On time,Balloch,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,22:20,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Edinburgh,22:21,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+1,Springburn,22:33,On time,Balloch,ScotRail,Expand,2024-03-12
+2,Balloch,22:46,On time,Springburn,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,22:50,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Bathgate,22:51,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,23:20,On time,Edinburgh,ScotRail,Expand,2024-03-12
+1,Bathgate,23:21,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+1,Springburn,23:32,On time,Balloch,ScotRail,Expand,2024-03-12
+2,Balloch,23:39,On time,Springburn,ScotRail,Expand,2024-03-12
+1,Bathgate,23:50,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Helensburgh Central,23:57,On time,Edinburgh,ScotRail,Expand,2024-03-12
+2,Garscadden,00:07,On time,Edinburgh,ScotRail,Expand,2024-03-12
+2,Garscadden,00:12,On time,Springburn,ScotRail,Expand,2024-03-12
+1,Airdrie,00:21,On time,Helensburgh Central,ScotRail,Expand,2024-03-12
+2,Milngavie,18:40,On time,Springburn,ScotRail,Expand,2024-03-13
+2,Balloch,18:45,On time,Airdrie,ScotRail,Expand,2024-03-13
+1,Airdrie,18:53,18:58,Balloch,ScotRail,Expand,2024-03-13
+2,Milngavie,18:55,18:58,Edinburgh,ScotRail,Expand,2024-03-13
+1,Springburn,18:58,On time,Milngavie,ScotRail,Expand,2024-03-13
+1,Edinburgh,19:04,On time,Helensburgh Central,ScotRail,Expand,2024-03-13
+2,Helensburgh Central,19:04,On time,Edinburgh,ScotRail,Expand,2024-03-13
+2,Milngavie,19:10,On time,Springburn,ScotRail,Expand,2024-03-13
+2,Balloch,19:15,On time,Airdrie,ScotRail,Expand,2024-03-13
+2,Garscadden,19:23,On time,Edinburgh,ScotRail,Expand,2024-03-13
+1,Airdrie,19:24,On time,Balloch,ScotRail,Expand,2024-03-13
+1,Springburn,19:28,On time,Milngavie,ScotRail,Expand,2024-03-13
+2,Helensburgh Central,19:34,On time,Edinburgh,ScotRail,Expand,2024-03-13
+1,Edinburgh,19:35,On time,Helensburgh Central,ScotRail,Expand,2024-03-13
+2,Milngavie,19:40,On time,Springburn,ScotRail,Expand,2024-03-13
+2,Balloch,19:46,On time,Airdrie,ScotRail,Expand,2024-03-13
+1,Airdrie,19:53,On time,Balloch,ScotRail,Expand,2024-03-13
+1,Springburn,19:58,On time,Milngavie,ScotRail,Expand,2024-03-13
+2,Helensburgh Central,20:04,On time,Edinburgh,ScotRail,Expand,2024-03-13
+2,Milngavie,20:10,On time,Springburn,ScotRail,Expand,2024-03-13
+2,Balloch,20:15,On time,Airdrie,ScotRail,Expand,2024-03-13
+1,Edinburgh,20:23,On time,Helensburgh Central,ScotRail,Expand,2024-03-13
+2,Balloch,20:41,On time,Springburn,ScotRail,Expand,2024-03-13
+2,Helensburgh Central,20:50,On time,Edinburgh,ScotRail,Expand,2024-03-13
+1,Edinburgh,20:51,On time,Helensburgh Central,ScotRail,Expand,2024-03-13
+1,Springburn,21:02,On time,Balloch,ScotRail,Expand,2024-03-13
+1,Edinburgh,21:20,On time,Helensburgh Central,ScotRail,Expand,2024-03-13
+2,Helensburgh Central,21:21,On time,Edinburgh,ScotRail,Expand,2024-03-13
+2,Balloch,21:45,On time,Springburn,ScotRail,Expand,2024-03-13
+2,Helensburgh Central,21:50,On time,Edinburgh,ScotRail,Expand,2024-03-13
+1,Edinburgh,21:53,On time,Helensburgh Central,ScotRail,Expand,2024-03-13
+1,Springburn,22:02,On time,Balloch,ScotRail,Expand,2024-03-13
+2,Helensburgh Central,22:20,On time,Edinburgh,ScotRail,Expand,2024-03-13
+1,Edinburgh,22:21,On time,Helensburgh Central,ScotRail,Expand,2024-03-13
+1,Springburn,22:33,On time,Balloch,ScotRail,Expand,2024-03-13
+2,Balloch,22:46,On time,Springburn,ScotRail,Expand,2024-03-13
+2,Helensburgh Central,22:50,On time,Edinburgh,ScotRail,Expand,2024-03-13
+1,Bathgate,22:51,On time,Helensburgh Central,ScotRail,Expand,2024-03-13
+2,Helensburgh Central,23:20,On time,Edinburgh,ScotRail,Expand,2024-03-13
+1,Bathgate,23:21,On time,Helensburgh Central,ScotRail,Expand,2024-03-13
+1,Springburn,23:32,On time,Balloch,ScotRail,Expand,2024-03-13
+2,Balloch,23:39,On time,Springburn,ScotRail,Expand,2024-03-13
+1,Bathgate,23:50,On time,Helensburgh Central,ScotRail,Expand,2024-03-13
+-,Helensburgh Central,23:57,Cancelled,Edinburgh,ScotRail,Expand,2024-03-13
+2,Garscadden,00:07,On time,Edinburgh,ScotRail,Expand,2024-03-13
+2,Garscadden,00:12,On time,Springburn,ScotRail,Expand,2024-03-13
+1,Airdrie,00:21,On time,Helensburgh Central,ScotRail,Expand,2024-03-13
+1,Bathgate,05:42,On time,Hyndland,ScotRail,Expand,2024-03-14
+1,Springburn,05:57,On time,Garscadden,ScotRail,Expand,2024-03-14
+1,Edinburgh,06:02,On time,Garscadden,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,06:04,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Edinburgh,06:13,On time,Dalmuir,ScotRail,Expand,2024-03-14
+2,Milngavie,06:21,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,06:23,On time,Dalmuir,ScotRail,Expand,2024-03-14
+1,Springburn,06:28,On time,Hyndland,ScotRail,Expand,2024-03-14
+1,Edinburgh,06:34,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,06:40,On time,Springburn,ScotRail,Expand,2024-03-14
+1,Edinburgh,06:45,On time,Hyndland,ScotRail,Expand,2024-03-14
+1,Airdrie,06:53,On time,Balloch,ScotRail,Expand,2024-03-14
+2,Milngavie,06:54,On time,Bathgate,ScotRail,Expand,2024-03-14
+1,Springburn,06:58,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Edinburgh,07:04,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,07:04,07:09,Bathgate,ScotRail,Expand,2024-03-14
+2,Milngavie,07:10,On time,Springburn,ScotRail,Expand,2024-03-14
+1,Edinburgh,07:14,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Balloch,07:15,07:19,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,07:23,On time,Balloch,ScotRail,Expand,2024-03-14
+-,Milngavie,07:24,Cancelled,Bathgate,ScotRail,Expand,2024-03-14
+1,Edinburgh,07:04,07:06,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,07:04,07:11,Bathgate,ScotRail,Expand,2024-03-14
+2,Milngavie,07:10,On time,Springburn,ScotRail,Expand,2024-03-14
+1,Edinburgh,07:14,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Balloch,07:15,07:18,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,07:23,On time,Balloch,ScotRail,Expand,2024-03-14
+2,Milngavie,07:24,On time,Glasgow Queen Street,ScotRail,Expand,2024-03-14
+1,Springburn,07:28,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Edinburgh,07:34,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,07:34,07:45,Edinburgh,ScotRail,Expand,2024-03-14
+-,Milngavie,07:40,Cancelled,Springburn,ScotRail,Expand,2024-03-14
+1,Edinburgh,07:44,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Balloch,07:45,07:49,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,07:53,On time,Balloch,ScotRail,Expand,2024-03-14
+2,Milngavie,07:54,On time,Bathgate,ScotRail,Expand,2024-03-14
+1,Springburn,07:58,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,08:04,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,08:05,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,08:10,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,08:14,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,08:14,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Airdrie,08:23,On time,Balloch,ScotRail,Expand,2024-03-14
+2,Milngavie,08:24,On time,Bathgate,ScotRail,Expand,2024-03-14
+1,Springburn,08:28,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,08:34,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,08:35,08:41,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,08:40,On time,Springburn,ScotRail,Expand,2024-03-14
+1,Airdrie,08:44,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Balloch,08:45,On time,Airdrie,ScotRail,Expand,2024-03-14
+2,Milngavie,08:54,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Airdrie,08:55,08:58,Balloch,ScotRail,Expand,2024-03-14
+1,Springburn,08:59,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,09:04,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,09:05,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+-,Milngavie,09:10,Cancelled,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,09:15,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,09:16,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Airdrie,09:25,On time,Dumbarton Central,ScotRail,Expand,2024-03-14
+1,Springburn,09:28,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,09:35,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,09:37,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,09:41,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,09:46,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,09:54,On time,Balloch,ScotRail,Expand,2024-03-14
+1,Springburn,09:58,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,10:04,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,10:05,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,10:10,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,10:15,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,10:23,On time,Balloch,ScotRail,Expand,2024-03-14
+1,Springburn,10:28,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,10:34,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,10:34,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,10:40,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,10:45,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,10:53,On time,Balloch,ScotRail,Expand,2024-03-14
+1,Springburn,10:58,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,11:04,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,11:04,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,11:10,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,11:15,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,11:23,On time,Balloch,ScotRail,Expand,2024-03-14
+1,Springburn,11:28,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,11:34,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,11:34,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,11:40,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,11:45,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,11:53,On time,Balloch,ScotRail,Expand,2024-03-14
+1,Springburn,12:01,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,12:04,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,12:05,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,12:10,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,12:14,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,12:23,On time,Balloch,ScotRail,Expand,2024-03-14
+1,Springburn,12:27,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,12:34,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,12:36,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,12:40,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,12:45,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,12:54,On time,Balloch,ScotRail,Expand,2024-03-14
+1,Springburn,12:58,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Edinburgh,13:04,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,13:10,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,13:15,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,13:23,On time,Balloch,ScotRail,Expand,2024-03-14
+1,Springburn,13:28,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Edinburgh,13:34,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,13:40,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,13:45,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,13:53,On time,Balloch,ScotRail,Expand,2024-03-14
+1,Springburn,13:58,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Edinburgh,14:04,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,14:10,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,14:15,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,14:23,On time,Balloch,ScotRail,Expand,2024-03-14
+1,Springburn,14:28,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,14:34,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,14:35,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,14:40,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,14:45,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,14:53,On time,Balloch,ScotRail,Expand,2024-03-14
+1,Springburn,14:58,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Edinburgh,15:03,On time,Garscadden,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,15:04,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,15:07,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,15:10,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,15:15,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,15:24,15:26,Balloch,ScotRail,Expand,2024-03-14
+1,Springburn,15:28,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,15:34,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,15:35,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,15:40,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,15:45,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,15:53,On time,Balloch,ScotRail,Expand,2024-03-14
+2,Milngavie,15:54,On time,Bathgate,ScotRail,Expand,2024-03-14
+1,Springburn,15:58,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Edinburgh,16:04,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,16:10,On time,Springburn,ScotRail,Expand,2024-03-14
+1,Edinburgh,16:14,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Balloch,16:15,On time,Airdrie,ScotRail,Expand,2024-03-14
+2,Milngavie,16:23,On time,Bathgate,ScotRail,Expand,2024-03-14
+1,Springburn,16:28,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Edinburgh,16:34,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,16:34,On time,Edinburgh,ScotRail,Expand,2024-03-14
+2,Milngavie,16:40,On time,Springburn,ScotRail,Expand,2024-03-14
+1,Edinburgh,16:44,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Balloch,16:45,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,16:53,On time,Balloch,ScotRail,Expand,2024-03-14
+2,Milngavie,16:53,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Springburn,16:58,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Edinburgh,17:03,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,17:04,On time,Edinburgh,ScotRail,Expand,2024-03-14
+2,Milngavie,17:10,On time,Springburn,ScotRail,Expand,2024-03-14
+1,Edinburgh,17:14,On time,Milngavie,ScotRail,Expand,2024-03-14
+-,Airdrie,17:23,Cancelled,Balloch,ScotRail,Expand,2024-03-14
+2,Milngavie,17:24,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Springburn,17:28,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Edinburgh,17:34,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+-,Helensburgh Central,17:34,Cancelled,Edinburgh,ScotRail,Expand,2024-03-14
+2,Milngavie,17:40,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,17:46,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Bathgate,17:48,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Airdrie,17:54,On time,Balloch,ScotRail,Expand,2024-03-14
+2,Milngavie,17:54,17:56,Edinburgh,ScotRail,Expand,2024-03-14
+1,Springburn,18:00,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Edinburgh,18:05,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,18:05,On time,Edinburgh,ScotRail,Expand,2024-03-14
+2,Milngavie,18:11,On time,Springburn,ScotRail,Expand,2024-03-14
+2,Balloch,18:15,On time,Airdrie,ScotRail,Expand,2024-03-14
+1,Bathgate,18:15,On time,Milngavie,ScotRail,Expand,2024-03-14
+1,Airdrie,18:23,18:30,Balloch,ScotRail,Expand,2024-03-14
+2,Milngavie,18:24,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Springburn,18:28,On time,Milngavie,ScotRail,Expand,2024-03-14
+2,Helensburgh Central,18:34,On time,Edinburgh,ScotRail,Expand,2024-03-14
+1,Edinburgh,18:36,On time,Helensburgh Central,ScotRail,Expand,2024-03-14
+2,Milngavie,18:40,On time,Springburn,ScotRail,Expand,2024-03-14
+-,Balloch,18:45,Cancelled,Airdrie,ScotRail,Expand,2024-03-14
+1,Airdrie,18:53,On time,Balloch,ScotRail,Expand,2024-03-14
