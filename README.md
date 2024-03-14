@@ -1,3 +1,11 @@
-Scraping dynamic table from the website with Python
-Motivation: I moved into a flat where I could hear trains ramble and then I realized that there is an underground railway just beside the flat. The rambling sound is annoying and I want to figure out how often does the train passes by. The live timetable for specific train station is available in the ScotRail offical website as an example shown below:
-[](https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/chc)
+# Scraping dynamic table from the website with Python
+Motivation: I moved into a flat where I could always hear the rumble of trains, and then I realized that there is an underground railway just next to the flat. The rumbling sound is annoying and I wonder how often the trains passe by. Live timetables for specific train stations can be viewed on the e ScotRail official website. 
+
+Here is an example:
+insert link here
+insert a pic here
+
+In order to scrape the information of the live timetable, I wrote a Python code by using the Selenium library to open the website and scrape data every 10 min from 5:00 - 23:59, Monday to Sunday. 
+
+Bar charts are generated to visualize how many trains pass each hour.
+
