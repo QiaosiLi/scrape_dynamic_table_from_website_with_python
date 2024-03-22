@@ -10,6 +10,14 @@ In order to scrape the information of the live timetable, I wrote a Python code 
 
 ## Results:
 
+![plot_3-14-2024_Thursday](https://github.com/QiaosiLi/scrape_dynamic_table_from_website_with_python/assets/140426435/e6816917-9dc6-4af3-a134-9dfaedcbd19f)
+![plot_3-15-2024_Friday](https://github.com/QiaosiLi/scrape_dynamic_table_from_website_with_python/assets/140426435/df5954bd-f20a-4c66-b993-1e64a030ee10)
+![plot_3-16-2024_Saturday](https://github.com/QiaosiLi/scrape_dynamic_table_from_website_with_python/assets/140426435/c204379b-aa50-4555-a8fd-b9cda2461ac5)
+![plot_3-17-2024_Sunday](https://github.com/QiaosiLi/scrape_dynamic_table_from_website_with_python/assets/140426435/f5240c34-cccf-4145-ac7c-fd5f41be2f16)
+![plot_3-18-2024_Monday](https://github.com/QiaosiLi/scrape_dynamic_table_from_website_with_python/assets/140426435/be2839c7-8eac-4a74-9390-a3ace68f8378)
+![plot_3-19-2024_Tuesday](https://github.com/QiaosiLi/scrape_dynamic_table_from_website_with_python/assets/140426435/1a7fd0e2-9be5-4586-9ecf-2cfc5c089170)
+![plot_3-20-2024_Wednesday](https://github.com/QiaosiLi/scrape_dynamic_table_from_website_with_python/assets/140426435/655e36da-0138-4cc2-9bef-b0b462720457)
+![plot_3-21-2024_Thursday](https://github.com/QiaosiLi/scrape_dynamic_table_from_website_with_python/assets/140426435/b3318849-6dd6-49cd-8bb6-baf0095c5cd5)
 
 ## Conclusion:
 
