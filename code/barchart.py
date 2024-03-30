@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 import os
 
-figure_folder = 'E:/QL_2022/pycharm_project/web_timetable/figure'
+figure_folder = '/figure'
 if not os.path.exists(figure_folder):
     os.makedirs(figure_folder)
 
