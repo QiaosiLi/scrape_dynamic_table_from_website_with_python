@@ -47,8 +47,8 @@ def scrape_timetable():
         print('No timetable available.')
 
 
-    # csv_file = '/Users/qiaosili/Pycharm/web_scraping/data/timetable.csv'
-    csv_file = 'E:\\QL_2022\\pycharm_project\\web_timetable\\data\\timetable.csv' # Specify path to save csv file.
+    # Specify the path to save csv file.
+    csv_file = 'data\\timetable.csv' 
 
     # Save the df to csv if it hasn't been saved before.
     if os.path.exists(csv_file) is False:
@@ -85,7 +85,7 @@ def scrape_timetable():
 
 if __name__ == '__main__':
 
-    # Train service usually operates from 5am to 0030am. Scarping timetable very 5min during the service time.
+    # Train service usually operates from 0500am to 0030am. Scarping timetable very 10 min during the service time.
     # start_time = datetime.now().replace(hour=5, minute=10, second=0, microsecond=0)
     # end_time = start_time.replace(hour=23, minute=50)
     # print(start_time)
