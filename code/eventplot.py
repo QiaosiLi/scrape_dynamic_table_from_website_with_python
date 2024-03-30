@@ -3,11 +3,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-figure_folder = 'E:/QL_2022/pycharm_project/web_timetable/figure'
+figure_folder = '/figure'
 if not os.path.exists(figure_folder):
     os.makedirs(figure_folder)
 
-csv_file = 'E:/QL_2022/pycharm_project/web_timetable/data/timetable_20240318.csv'
+csv_file = '/data/timetable_20240318.csv'
 df = pd.read_csv(csv_file)
 dep_time = pd.to_datetime(df['Departs'], format='%H:%M')
 df['Departs2'] = dep_time.dt.hour.replace(0,24)+dep_time.dt.minute/60
