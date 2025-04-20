@@ -23,3 +23,6 @@ In order to scrape the information of the live timetable, I wrote a Python code 
 
 2. There are so many trains passing by every day, so DO NOT stay at home all day! Getting some peace during 21:21-21:45 (24 min) and 22:51-23:20 (29 min). Hope to move out soon...
 
+## Updates:
+I moved out of this 'train flat' on 26th March 2025, after spending 790 days here—finally.
+
